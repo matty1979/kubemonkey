@@ -1,2 +1,2 @@
 # kubemonkey
-seperate kubemonkey config to add to EKS 
+Seperate kubemonkey config to add to EKS 
